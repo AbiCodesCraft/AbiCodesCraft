@@ -1,12 +1,12 @@
-Abishekh Mahalingam 
-1024/2a, NGR street, Arasur road, Kalapatti, Coimbatore, Pincode: 641048 
-+91 8438391379 
-abiwork007@gmail.com (Work Account) 
-24z462@psgtech.ac.in (Student Account)
+Abishekh Mahalingam
+
+Work Account: abiwork007@gmail.com  
+
+Student Account: 24z462@psgtech.ac.in
 
 
 # Education 
-## 12th  
+## Higher Secondary Education - 12th  
 International Indian School 
 United Arab Emirates, Ajman 
 
@@ -18,7 +18,9 @@ Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004
 PSG College Of Technology
 Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004
 
-# Projects 
+
+
+# Projects
 ## CosmoConnect 
 A WebApp that’s used for entering details of accounts and sales. It can also take employee 
 attendance using facial recognition, upload confidential documents to a blockchain service 
